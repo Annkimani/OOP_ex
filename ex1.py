@@ -19,4 +19,3 @@ def get_biggest_number(*args):
 
 #output
 print("the oldest dog is {} years old".format(get_biggest_number(jake.age, doug.age, william.age)))
-
